@@ -1,6 +1,6 @@
 # Homebrew Tap for Milaidy
 
-Personal AI assistant built on [ElizaOS](https://github.com/elizaos) — cute agents for the acceleration.
+Personal AI assistant built on [elizaOS](https://github.com/elizaos) — cute agents for the acceleration.
 
 ## Install
 
@@ -32,4 +32,4 @@ milaidy --help         # Show all commands
 
 - [Milaidy](https://github.com/milady-ai/milaidy)
 - [Documentation](https://docs.milady.ai)
-- [ElizaOS](https://github.com/elizaos)
+- [elizaOS](https://github.com/elizaos)
